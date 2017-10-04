@@ -1,0 +1,6 @@
+
+/* Class = "UILabel"; text = "Tap To Record"; ObjectID = "QaY-AL-UaP"; */
+"QaY-AL-UaP.text" = "Tap To Record";
+
+/* Class = "UIButton"; normalTitle = "StopRecording"; ObjectID = "wdG-O3-aya"; */
+"wdG-O3-aya.normalTitle" = "StopRecording";
