@@ -281,7 +281,7 @@
 				"INFOPLIST_FILE[sdk=iphonesimulator*]" = PitchPerfect/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = .com.udacity.pitchperfect;
+				PRODUCT_BUNDLE_IDENTIFIER = CornelProprietorship.PitchPerfect;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
@@ -299,7 +299,7 @@
 				"INFOPLIST_FILE[sdk=iphonesimulator*]" = PitchPerfect/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = .com.udacity.pitchperfect;
+				PRODUCT_BUNDLE_IDENTIFIER = CornelProprietorship.PitchPerfect;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
