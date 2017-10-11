@@ -42,7 +42,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PitchPerfect/RecordSoundsViewController.swift"
-            timestampString = "519104463.509425"
+            timestampString = "529382654.67596"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "16"
@@ -58,12 +58,12 @@
                   moduleName = "PitchPerfect"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/admin/Library/Mobile%20Documents/com~apple~CloudDocs/Swift%20/Pitch%20Perfect/PitchPerfect/PitchPerfect/RecordSoundsViewController.swift"
-                  timestampString = "529291452.400606"
+                  timestampString = "529393947.576959"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "16"
                   endingLineNumber = "16"
-                  offsetFromSymbolStart = "92">
+                  offsetFromSymbolStart = "79">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -73,12 +73,12 @@
                   moduleName = "PitchPerfect"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/admin/Library/Mobile%20Documents/com~apple~CloudDocs/Swift%20/Pitch%20Perfect/PitchPerfect/PitchPerfect/RecordSoundsViewController.swift"
-                  timestampString = "529291452.403766"
+                  timestampString = "529393947.579717"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "16"
                   endingLineNumber = "16"
-                  offsetFromSymbolStart = "96">
+                  offsetFromSymbolStart = "86">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -88,12 +88,12 @@
                   moduleName = "PitchPerfect"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/admin/Library/Mobile%20Documents/com~apple~CloudDocs/Swift%20/Pitch%20Perfect/PitchPerfect/PitchPerfect/RecordSoundsViewController.swift"
-                  timestampString = "529291452.40733"
+                  timestampString = "529393947.582877"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "16"
                   endingLineNumber = "16"
-                  offsetFromSymbolStart = "188">
+                  offsetFromSymbolStart = "227">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -103,12 +103,12 @@
                   moduleName = "PitchPerfect"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/admin/Library/Mobile%20Documents/com~apple~CloudDocs/Swift%20/Pitch%20Perfect/PitchPerfect/PitchPerfect/RecordSoundsViewController.swift"
-                  timestampString = "529291452.410873"
+                  timestampString = "529393947.585659"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "16"
                   endingLineNumber = "16"
-                  offsetFromSymbolStart = "144">
+                  offsetFromSymbolStart = "156">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -120,7 +120,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PitchPerfect/RecordSoundsViewController.swift"
-            timestampString = "525829994.722514"
+            timestampString = "529382654.676097"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "48"
@@ -136,7 +136,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PitchPerfect/RecordSoundsViewController.swift"
-            timestampString = "521064818.715811"
+            timestampString = "529382654.676182"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "31"
@@ -152,7 +152,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PitchPerfect/RecordSoundsViewController.swift"
-            timestampString = "521064818.715811"
+            timestampString = "529382654.67628"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "31"
@@ -168,13 +168,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PitchPerfect/PlaySoundsViewController.swift"
-            timestampString = "529291448.856438"
+            timestampString = "529393929.440924"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "57"
             endingLineNumber = "57"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "PlaySoundsViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
